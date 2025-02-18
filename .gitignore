@@ -1,0 +1,10 @@
+**/__pycache__/
+*.pyc
+
+# Ignore large image datasets in Image_Classification/data
+/Image_Classification/data/augmented-img/
+/Image_Classification/data/processed-img/
+/Image_Classification/data/raw-img/
+
+# Ignore large model files
+/NER/model/pytorch_model.bin
