@@ -21,7 +21,6 @@
 - [Model](#model)
 - [Demo Notebook](#demo-notebook)
 - [Key Scripts](#key-scripts)
-- [Contributing](#contributing)
 
 ---
 
@@ -228,9 +227,3 @@ jupyter notebook pipeline/notebook/demo_pipeline.ipynb
 - **NER/utils/run_inference.py**: Performs inference on a text snippet.
 - **pipeline/scripts/main.py**: Main entry point for the integrated pipeline (supports interactive mode and CLI arguments).
 - **pipeline/src/evaluation.py**: Contains `test_evaluation_data()` and `interactive_mode()` for pipeline evaluation.
-
-### Contributing
-
-1. Fork this repository.
-2. Create a feature branch for your changes.
-3. Open a pull request describing your feature or fix.
